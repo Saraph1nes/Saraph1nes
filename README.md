@@ -1,6 +1,4 @@
-![banner](https://github.com/Saraph1nes/Saraph1nes/assets/52569690/63ba51f3-5e7e-4cea-b2e9-6b3a3a9cf953)
-
-<h1 align="center">Hi 👋, I'm Leo Xia</h1>
+<h1 align="center">Hi 👋, I'm Saraph1nes</h1>
 <h3 align="center">A passionate fullstack developer from China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saraph1nes&label=Profile%20views&color=0e75b6&style=flat" alt="saraph1nes" /> </p>
