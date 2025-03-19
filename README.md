@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **nestjs vue**
 
-- 📝 I regularly write articles on [https://www.sablogs.cn](https://www.sablogs.cn)
+- 📝 I regularly write articles on [https://sablogs.cn](https://sablogs.cn)
 
 - 📫 How to reach me **xiayx.leo@gmail.com**
 
